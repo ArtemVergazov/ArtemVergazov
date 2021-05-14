@@ -6,7 +6,7 @@ I am a student intern at Fracture Geomechanics group at Schlumberger Moscow Rese
 
 I am fond of math, programming and physics.
 
-For description of my particular project involvements, programming languages I use and list of main achievements go to my resume.
+For description of my particular project involvements, programming languages I use and list of main achievements go to my resume: https://github.com/ArtemVergazov/ArtemVergazov/blob/main/resume.pdf
 
 <!---
 ArtemVergazov/ArtemVergazov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
