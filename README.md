@@ -8,7 +8,9 @@ I am a student intern at a research group at Schlumberger Moscow Research (SMR).
 
 I am fond of math, programming and physics.
 
-For description of my particular project involvements, programming languages I use and list of main achievements go to my resume: https://github.com/ArtemVergazov/ArtemVergazov/blob/main/resume.pdf
+For description of my particular project involvements, programming languages I use and list of main achievements go to my resume: 
+https://github.com/ArtemVergazov/ArtemVergazov/blob/main/resume_new.pdf (brief version)
+https://github.com/ArtemVergazov/ArtemVergazov/blob/main/resume.pdf (long version)
 
 <!---
 ArtemVergazov/ArtemVergazov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
