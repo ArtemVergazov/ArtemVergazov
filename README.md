@@ -10,9 +10,8 @@ I keep growing as a specialist in math modeling applied to oil-gas industry. Cur
 
 I am fond of math, programming and physics.
 
-For description of my particular project involvements, programming languages I use and list of main achievements go to my resume: 
-https://github.com/ArtemVergazov/ArtemVergazov/blob/main/resume_brief.pdf (brief and more up-to-date version)
-https://github.com/ArtemVergazov/ArtemVergazov/blob/main/resume.pdf (full version)
+For description of my particular project involvements, programming languages I use and list of main achievements, please refer to my CV: 
+https://github.com/ArtemVergazov/ArtemVergazov/blob/main/resume.pdf
 
 <!---
 ArtemVergazov/ArtemVergazov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
