@@ -4,7 +4,7 @@ I study at Skoltech, Advanced Computational Science MSc program, and specialize 
 
 I had my BSc at the Faculty of Physics of Lomonosov Moscow State University in Math Modeling and Numerical Methods.
 
-I have experience as a student intern at a research group at Schlumberger Moscow Research (SMR). With my skills, I was helping SMR to reach out the ambitious goal to be a center of excellence for scientific computing in Schlumberger. I have worked there since 2019 until 2022.
+I have experience as a student intern at a research group at Schlumberger Moscow Research (SMR). With my skills, I was helping SMR to reach out the ambitious goal to be a center of excellence for scientific computing in Schlumberger. I have worked there since 2020 until 2022.
 
 I keep growing as a specialist in math modeling applied to oil-gas industry. Currently I am emplyed at the Saudi Aramco Innovations center where I develop front-end and back-end solutions for the scientific applications in PySide6 which are used by Aramco engineers.
 
