@@ -1,6 +1,6 @@
 👋 Hi, I’m @ArtemVergazov!
 
-I study at Skoltech, Advanced Computational Science MSc program, and specialize in Mathematics, Data Sciences and Numerical Computational Methods.
+I study at Skoltech, Advanced Computational Science MSc program, and specialize in Mathematics, Data Science and Numerical Computational Methods.
 
 I had my BSc at the Faculty of Physics of Lomonosov Moscow State University in Math Modeling and Numerical Methods.
 
