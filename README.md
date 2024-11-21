@@ -6,9 +6,9 @@ I study at Skoltech, Computational and Data Science and Engineering PhD program,
 
 I had my Msc at Skoltech, Advanced Computational Science program, and my BSc at the Faculty of Physics of Lomonosov Moscow State University in Math Modeling and Numerical Methods.
 
-For description of my particular project involvements, programming languages I use and list of main achievements, please refer to my CV: 
-https://github.com/ArtemVergazov/ArtemVergazov/blob/main/cv.pdf
-https://github.com/ArtemVergazov/ArtemVergazov/blob/main/cv_russian.pdf
+For description of my particular project involvements, programming languages I use and list of main achievements, please refer to my CV:
+- https://github.com/ArtemVergazov/ArtemVergazov/blob/main/cv.pdf
+- https://github.com/ArtemVergazov/ArtemVergazov/blob/main/cv_russian.pdf
 
 <!---
 ArtemVergazov/ArtemVergazov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
